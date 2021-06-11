@@ -1,0 +1,1 @@
+To build, just run `gcc *.c`
